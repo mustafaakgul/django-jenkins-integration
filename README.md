@@ -4,4 +4,6 @@
 * Clone this repository
 * Install Jenkins
 * Install Docker and Docker Compose that is out of the box with Docker Desktop
-* -
+* python -m venv venv
+* source venv/bin/activate
+* pip install -r requirements.txt
